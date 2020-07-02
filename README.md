@@ -15,3 +15,8 @@ __Situation 3__
 During the production of the files, it incounters over 25 memory errors. The script closes without warning. Running the script in CMD states that it has reached the limit of errors.
 
 [Download the latest release!](scripts/pdfv5.1.py)
+
+# BruteForce Password PHP (bruteforcepass.py)
+A script that takes advantage of a sequential password sequence. I.e. a date?! Uses a bruteforce technique to guess the password and bombard a php server with 365 * # of years of requests.
+
+[Download the latest release!](scripts/bruteforcepass.py)
