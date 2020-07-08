@@ -1,6 +1,8 @@
 # Youtube Content Stealer and Reuploader
 So, you want to become the next youtube sensation?
+
 Do you have questionable moral standards?
+
 Welcome to our content-stealing platform. (TM). (JK).
 
 ## Requirements
@@ -28,6 +30,10 @@ Replace secret.json
 Open main.py, and it will take off from there...
 
 You may need to authenticate the account you want to use.
+
+It creates a token.txt and a videolist.txt.
+Token.TXT stores the refresh token for future use. (You may need to set the expiry of the Google Auth Client to a longer time for this refresh function to work)
+Videolist.TXT stores a record of the uploaded videos on your account.
 
 ## Errors
 HTTPError - Within the error, you may see a mention about quotas. 
