@@ -20,3 +20,8 @@ During the production of the files, it incounters over 25 memory errors. The scr
 A script that takes advantage of a sequential password sequence. I.e. a date?! Uses a bruteforce technique to guess the password and bombard a php server with 365 * # of years of requests.
 
 [Download the latest release!](scripts/bruteforcepass.py)
+
+# ContentStealer
+A script that reuploads content stolen from other youtube channels.
+
+[Read the README.md for more information.](scripts/contentstealer)
