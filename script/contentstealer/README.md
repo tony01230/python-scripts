@@ -18,6 +18,10 @@ Your account should have Youtube's Data V3 API activated...
 ### Required Setup
 Replace the Client ID and Client Secret within the Script
 
+Replace description and tag information
+
+Replace Youtube Channel ID (the channel where you are stealing from)
+
 Replace secret.json
 
 ### Usage
