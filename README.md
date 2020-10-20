@@ -25,3 +25,8 @@ A script that takes advantage of a sequential password sequence. I.e. a date?! U
 A script that reuploads content stolen from other youtube channels.
 
 [Read the README.md for more information.](scripts/contentstealer)
+
+# Decimal to Binary / Hex, The Human Tester
+A script that generates a random decimal for the human to convert to either Binary or Hex.
+
+[Download decimal_binary_hex_human_test.py](scripts/decimal_binary_hex_human_test.py)
