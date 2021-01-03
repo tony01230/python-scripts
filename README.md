@@ -14,12 +14,12 @@ During the production of the files, it incounters multiple memory errors. It dec
 __Situation 3__
 During the production of the files, it incounters over 25 memory errors. The script closes without warning. Running the script in CMD states that it has reached the limit of errors.
 
-[Download the latest release!](scripts/pdfv5.1.py)
+[Download the pdfv5.1.py](scripts/pdfv5.1.py)
 
 # BruteForce Password PHP (bruteforcepass.py)
 A script that takes advantage of a sequential password sequence. I.e. a date?! Uses a bruteforce technique to guess the password and bombard a php server with 365 * # of years of requests.
 
-[Download the latest release!](scripts/bruteforcepass.py)
+[Download bruteforcepass.py](scripts/bruteforcepass.py)
 
 # ContentStealer
 A script that reuploads content stolen from other youtube channels.
@@ -30,3 +30,13 @@ A script that reuploads content stolen from other youtube channels.
 A script that generates a random decimal for the human to convert to either Binary or Hex.
 
 [Download decimal_binary_hex_human_test.py](scripts/decimal_binary_hex_human_test.py)
+
+# ACT Question Splitter
+A script that tries it's best to use Google Tesseract to split a PDF into their individual questions by question number.
+
+Requirements:
+pytesseract
+pillow
+pdf2image
+
+[Download ACT_question_splitter.py](scripts/ACT_question_splitter.py)
